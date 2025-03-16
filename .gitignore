@@ -1,0 +1,10 @@
+**/.idea
+**/DS_Store
+**/node_modules
+**/dist
+**/build
+**/env/db.env
+**/env/server.env
+**/.DS_Store
+
+**dump/
