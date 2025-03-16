@@ -4,7 +4,7 @@ This project is a **work in progress** boilerplate made for hybride mobile appli
 
 It provides you with a quick start including a JWT authentification. Middlewares to handle an api key, CORS, log, and JWT headers. The frontend includes components, AuthContext, nativewind and an up to date expo SDK.
 
-The backend is made after the boilerplate of @hhertout : https://github.com/hhertout/go_std_boilerplate.
+The backend is made after the boilerplate of @hhertout(https://github.com/hhertout) : https://github.com/hhertout/go_std_boilerplate.
 
 ## Technologies
 
